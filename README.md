@@ -9,7 +9,7 @@ https://www.hackerrank.com/raghu_ssmr
 
 * [Algorithms](#algorithms)
 * [Data Structures](#data-structures)
-* [30 Days of Code](#30-days-of-code)
+* [Cracking the Coding Interview](#Cracking-the-Coding-Interview)
 
 
 
